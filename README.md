@@ -28,9 +28,15 @@ CAEC – Frequency of consuming food between meals (Never, Sometimes, Frequently
 SMOKE – Whether the person smokes (yes/no).
 
 CH2O – Daily water intake (scale from 1 to 3).
+
 SCC – If the person monitors their calorie intake (yes/no).
+
 FAF – Physical activity frequency (scale from 0 to 3).
+
 TUE – Time spent using technology (scale from 0 to 3).
+
 CALC – Frequency of alcohol consumption (Never, Sometimes, Frequently, Always).
+
 MTRANS – Main mode of transportation (Automobile, Bike, Motorbike, Public Transportation, Walking).
+
 NObeyesdad – Obesity level (Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II, Obesity Type III).
